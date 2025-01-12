@@ -26,10 +26,10 @@ https://www.virtualbox.org/
 
 - Escolha uma distribuição Linux, como:
 
-Ubuntu : ubuntu.com/download .​​
-Fedora : getfedora .org .
-Linux Mint : linuxmint.com/download.php .​​
-Baixe o arquivo ISO correspondente:
+- Ubuntu : ubuntu.com/download .​​
+- Fedora : getfedora .org .
+- Linux Mint : linuxmint.com/download.php .​​
+- Baixe o arquivo ISO correspondente:
 
 - se de escolher a versão para arquitetura verifique 64 bits .
 
