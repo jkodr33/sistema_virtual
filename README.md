@@ -55,6 +55,9 @@ Configure uma nova máquina virtual :
 - Clique em Avançar .
 - Crie um disco rígido virtual :
 
+  ![sistema_3](https://github.com/user-attachments/assets/f9ced2c9-aefd-42c6-8757-bc1a5b5f854a)
+
+
 - Escolha Crie um disco rígido virtual agora e clique em Criar .
 - Selecione o tipo de disco como VDI (VirtualBox Disk Image) e clique em Next .
 - Escolha alocado dinamicamente .
